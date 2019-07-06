@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=Fdf5aTYRW0E
 https://github.com/bradtraversy/angular-crash-todolist/blob/master/src/styles.css
 
 # angular-cli commands
-ng new angular-todolist
+## ng new angular-todolist
 ng serve --open
 ng g c components/Todos
 ng g c components/TodoItem
