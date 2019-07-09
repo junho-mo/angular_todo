@@ -20,6 +20,5 @@ http://114.207.113.165/angular-todo/
 #### ng g c components/pages/About
 #### ng build
 
-# create files
-#### create folder : app/modules
-#### create file   : app/modules/Todo.ts
+# run command after download or clone
+#### npm update
